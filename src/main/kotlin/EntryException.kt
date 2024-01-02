@@ -1,0 +1,1 @@
+class EntryException(message: String?) : Exception(message)
